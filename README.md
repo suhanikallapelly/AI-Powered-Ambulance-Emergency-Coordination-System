@@ -1,26 +1,25 @@
-# AegisCare — AI Emergency Response & Hospital Coordination
+# 🚑 AI-Powered Ambulance & Emergency Coordination System
 
-A professional Streamlit MVP for emergency ambulance-to-hospital coordination.
+An AI-powered emergency coordination platform designed to improve **ambulance management, hospital coordination, emergency alerts, and response time**.
 
-## Core flow
-Patient login → Emergency request → nearest suitable ambulance → condition-based hospital matching → doctor availability → emergency/ICU bed check → pre-arrival coordination.
+### ✨ Features
 
-## Demo accounts
-- Admin: `admin` / `admin123`
-- Doctor: `doctor1` / `doctor123`
-- Dispatcher: `dispatcher1` / `dispatch123`
-- Ambulance: `driver1` / `driver123`
-- Hospital: `hospital1` / `hospital123`
+* 🚑 Ambulance Management
+* 🏥 Hospital Coordination
+* 🚨 Emergency Alerts
+* 🤖 AI-Powered Assistance
+* 📍 Location & Tracking
+* 🔐 Role-Based Access
 
-Patients can register normally.
+### 🛠️ Tech Stack
 
-## Run
-```cmd
-py -3.11 -m venv venv
-venv\Scripts\activate
-python -m pip install --upgrade pip
-pip install -r requirements.txt
-streamlit run app.py
-```
+**Python • Streamlit • AI/ML • Pandas • GeoPy • Folium**
 
-This is a prototype. For real hospital deployment, add production authentication/MFA, HTTPS, encrypted secrets, a production database, immutable audit logging, consent/privacy controls, backups, monitoring, and required healthcare/legal compliance.
+### 🌐 Live Demo
+
+🚀 https://ai-powered-ambulance-emergency-coordination-system-108.streamlit.app/
+
+---
+
+⭐ **AI-powered technology for faster and smarter emergency response.**
+
